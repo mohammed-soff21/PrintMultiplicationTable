@@ -20,13 +20,13 @@ This project is designed as a basic introduction to input/output operations as w
 
 ## Features
 - Accepts an integer number from the user
-- prints its multiplication table from 1 to 12
+- Prints its multiplication table from 1 to 12
 - Code is divided into reusable methods for better readability and structure
 - Written in clean and modern C# syntax
 
 ## Example
 ```text
-Enter an integer number:
+Enter a number to print its multiplication table:
 > 5
 That is the multiplication table of 5:
 5*1=5
